@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passwortgenerator", "Passwortgenerator\Passwortgenerator.csproj", "{B4C9A606-6CD1-463B-B255-E22A25086199}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passwort_WPF", "Passwort_WPF\Passwort_WPF.csproj", "{A4B898D0-BFCC-4B37-953B-8B2C6420CF70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4C9A606-6CD1-463B-B255-E22A25086199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C9A606-6CD1-463B-B255-E22A25086199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C9A606-6CD1-463B-B255-E22A25086199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C9A606-6CD1-463B-B255-E22A25086199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4B898D0-BFCC-4B37-953B-8B2C6420CF70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B898D0-BFCC-4B37-953B-8B2C6420CF70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B898D0-BFCC-4B37-953B-8B2C6420CF70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B898D0-BFCC-4B37-953B-8B2C6420CF70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {857B6884-4014-48F7-B9C9-F8BF410925F8}
+	EndGlobalSection
+EndGlobal
